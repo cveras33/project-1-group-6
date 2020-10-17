@@ -13,7 +13,6 @@ Project 1 for Rutgers Data Science Bootcamp
 
 # Data Sources & APIs
 
-
 ## [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 
 #### Music Deserts
@@ -47,9 +46,12 @@ Project 1 for Rutgers Data Science Bootcamp
 1. Based on loudness - do people skip songs or listen to them? 
   * ie: if the song is a lower loudness or volume, do people listen to it or skip it?
 
-## [Kaggle](https://www.kaggle.com/)
+## Supplementary Data Sources
 
-#### Supplementary Data Source
+#### [Kaggle](https://www.kaggle.com/)
+
+#### [Spotipy](https://github.com/plamere/spotipy)
+
 
 # [Attributes](https://developer.spotify.com/documentation/web-api/reference/object-model/#audio-features-object)
 
