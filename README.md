@@ -19,8 +19,10 @@ Project 1 for Rutgers Data Science Bootcamp
 #### Music Deserts
 
 1. Are there areas in the world where Spotify is less available than others?
+
 2. Does Country Availability differ by artist/genre/ etc?
   * Does attribute popularity vary by country?
+  
 3. Does that availability differ with popularity 
   * i.e. - if heavy metal isn’t largely available in China, does it still have some level of popularity?
   
@@ -28,15 +30,22 @@ Project 1 for Rutgers Data Science Bootcamp
 
 1. Do certain genres become more popular at specific times of the year? 
   * i.e - Does Christmas music get more popular around December?
+  
 2. Do certain genres maintain popularity all year long? 
+
 3. Do certain attributes have a corelation with the time of year?
 
 #### Music Preference History
 
 1. How music changed over time? 
   * Danceability, energy, liveliness, etc
+  
 2. Genre popularity over the course of history
 
+#### Bonus Questions
+
+1. Based on loudness - do people skip songs or listen to them? 
+  * ie: if the song is a lower loudness or volume, do people listen to it or skip it?
 
 ## [Kaggle](https://www.kaggle.com/)
 
