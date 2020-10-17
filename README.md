@@ -1,2 +1,4 @@
-# project-1-group-6
+# Listen Up! 
 Project 1 for Rutgers Data Science Bootcamp
+
+Spotify
