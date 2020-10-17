@@ -11,11 +11,14 @@ Project 1 for Rutgers Data Science Bootcamp
 * Khush Patel
 * Saroja Shreenivasan
 
+# Work Progress
+* [View the README here](https://github.com/cveras33/project-1-group-6/blob/main/progress_notes.md)
+
 # Data Sources & APIs
 
-## [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
+### [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 
-#### 1. Music Preference History
+##### 1. Music Preference History
 
 1. How music changed over time? 
   * Danceability, energy, liveliness, etc
@@ -26,7 +29,9 @@ Project 1 for Rutgers Data Science Bootcamp
 
   *Note: Spotify was founded in April 23, 2006
 
-#### 2. Music Deserts
+#### Bonus Questions:
+
+##### 2. Music Deserts
 
 1. Are there areas in the world where Spotify is less available than others?
 
@@ -36,7 +41,7 @@ Project 1 for Rutgers Data Science Bootcamp
 3. Does that availability differ with popularity 
   * i.e. - if heavy metal isn’t largely available in China, does it still have some level of popularity?
   
-#### 3. Time of Year
+##### 3. Time of Year
 
 1. Do certain genres become more popular at specific times of the year? 
   * i.e - Does Christmas music get more popular around December?
@@ -45,7 +50,7 @@ Project 1 for Rutgers Data Science Bootcamp
 
 3. Do certain attributes have a corelation with the time of year?
 
-#### Bonus Questions
+##### 4. Loudness
 
 1. Based on loudness - do people skip songs or listen to them? 
   * ie: if the song is a lower loudness or volume, do people listen to it or skip it?
@@ -56,8 +61,9 @@ Project 1 for Rutgers Data Science Bootcamp
 
 #### [Spotipy](https://github.com/plamere/spotipy)
 
+#### [ISO.org](https://www.iso.org/obp/ui/#search)
 
-# [Attributes](https://developer.spotify.com/documentation/web-api/reference/object-model/#audio-features-object)
+#### [Song Attributes List](https://developer.spotify.com/documentation/web-api/reference/object-model/#audio-features-object)
 
 
 **acousticness** - A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.

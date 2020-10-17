@@ -1,14 +1,15 @@
 # Week 1 Assignments
 
 ### Jen 
-- Pull ISO Country Code & Create a .CSV & Dataframes based on country
+- Pull ISO Country Code & Create a .CSV & Dataframes based on country (done)
+- Create Python Code to pull Genre Popularity Based on Country
+- Alter code to be able to find the same data based on country & year
 
 ### Jordan 
-- Define Top 10 Genres - create 5 csvs of the top 10,000 songs of each genre based on Amount of Plays
-- (Spotify has 2,424 different genre)
+- Find the top 10,000 songs played per year Spotify has data (since 2006)
 
 ### Ben 
-- Discovering how we can pull “User” data and APIs & Which Genres are considered “seasonal”
+- Find the top 10 Genres played per year Spotify has data (since 2006)
 
 ### Chloe 
 - ???
