@@ -15,6 +15,15 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ## [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 
+#### 1) Music Preference History
+
+1. How music changed over time? 
+  * Danceability, energy, liveliness, etc
+  
+2. Genre popularity over the course of history
+
+3. Genre popularity vs Location
+
 #### Music Deserts
 
 1. Are there areas in the world where Spotify is less available than others?
@@ -33,13 +42,6 @@ Project 1 for Rutgers Data Science Bootcamp
 2. Do certain genres maintain popularity all year long? 
 
 3. Do certain attributes have a corelation with the time of year?
-
-#### Music Preference History
-
-1. How music changed over time? 
-  * Danceability, energy, liveliness, etc
-  
-2. Genre popularity over the course of history
 
 #### Bonus Questions
 
