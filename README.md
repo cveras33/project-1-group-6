@@ -24,6 +24,8 @@ Project 1 for Rutgers Data Science Bootcamp
 
 3. Genre popularity vs Location
 
+  *Note: Spotify was founded in April 23, 2006
+
 #### 2. Music Deserts
 
 1. Are there areas in the world where Spotify is less available than others?
