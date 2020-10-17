@@ -4,10 +4,10 @@ Project 1 for Rutgers Data Science Bootcamp
 
 # Team Members
 
+* Ben Kramskoi
 * [Chloe Veras](https://github.com/cveras33)
 * [Jennifer Dean](https://github.com/Jen-Dean) 
-* Ben Kramskoi
-* Jordan Chatman
+* [Jordan Chatman](https://github.com/JordanChat)
 * Khush Patel
 * Saroja Shreenivasan
 
