@@ -16,8 +16,8 @@
   - Base class will allow easy regeneration of access code (possibly even regenerate on its own after expiration) 
 
 
-# Finding the Popularity by Country:
-======
+# Finding the Popularity by Country 
+###### See Jen for more information:
 
 ### Initial Problems:
 
