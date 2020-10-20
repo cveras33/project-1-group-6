@@ -13,7 +13,10 @@
 
 ### Chloe 
 - Setting up base class to get spotify authorization to retrieve API access code 
-  - Base class will allow easy regeneration of access code (possibly even regenerate on its own after expiration) 
+  - Base class will allow easy regeneration of access code (possibly even regenerate on its own after expiration)
+  
+### Saroja
+- 
 
 
 # Finding the Popularity by Country 
