@@ -6,10 +6,10 @@
 - Alter code to be able to find the same data based on country & year
 
 ### Jordan 
-- Find the top 10,000 songs played per year Spotify has data (since 2006)
+- Find the top 10,000 most popular songs per year Spotify has data (since 2006)
 
 ### Ben 
-- Find the top 10 Genres played per year Spotify has data (since 2006)
+- Find the top 10 most popular Genres per year Spotify has data (since 2006)
 
 ### Chloe 
 - Setting up base class to get spotify authorization to retrieve API access code 
