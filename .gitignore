@@ -130,3 +130,5 @@ dmypy.json
 
 # Spotify Keys 
 config.py
+
+.DS_Store
