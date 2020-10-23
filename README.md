@@ -8,8 +8,7 @@ Project 1 for Rutgers Data Science Bootcamp
 * [Chloe Veras](https://github.com/cveras33)
 * [Jennifer Dean](https://github.com/Jen-Dean) 
 * [Jordan Chatman](https://github.com/JordanChat)
-* Khush Patel
-* Saroja Shreenivasan
+* [Saroja Shreenivasan](https://github.com/Shreeniv)
 
 # Data Sources & APIs
 
