@@ -11,9 +11,6 @@ Project 1 for Rutgers Data Science Bootcamp
 * Khush Patel
 * Saroja Shreenivasan
 
-# Work Progress
-* [View the README here](https://github.com/cveras33/project-1-group-6/blob/main/progress_notes.md)
-
 # Data Sources & APIs
 
 ### [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
