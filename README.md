@@ -66,7 +66,9 @@ Project 1 for Rutgers Data Science Bootcamp
 
 #### [Google Maps Public Data](https://developers.google.com/public-data/docs/canonical/countries_csv)
 
-## [Song Attributes Definitions](https://developer.spotify.com/documentation/web-api/reference/object-model/#audio-features-object)
+## Song Attributes Definitions
+
+[(View on Spotify Documentation)](https://developer.spotify.com/documentation/web-api/reference/object-model/#audio-features-object)
 
 **acousticness** - A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
 
