@@ -8,11 +8,7 @@ Project 1 for Rutgers Data Science Bootcamp
 * [Chloe Veras](https://github.com/cveras33)
 * [Jennifer Dean](https://github.com/Jen-Dean) 
 * [Jordan Chatman](https://github.com/JordanChat)
-* Khush Patel
-* Saroja Shreenivasan
-
-# Work Progress
-* [View the README here](https://github.com/cveras33/project-1-group-6/blob/main/progress_notes.md)
+* [Saroja Shreenivasan](https://github.com/Shreeniv)
 
 # Data Sources & APIs
 
@@ -57,14 +53,21 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ## Supplementary Data Sources
 
-#### [Kaggle](https://www.kaggle.com/)
+#### [Kaggle](https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year)
 
 #### [Spotipy](https://github.com/plamere/spotipy)
 
 #### [ISO.org](https://www.iso.org/obp/ui/#search)
 
-#### [Song Attributes List](https://developer.spotify.com/documentation/web-api/reference/object-model/#audio-features-object)
+#### [jupyter-gmaps](jupyter-gmaps.readthedocs.io)
 
+#### [Google Maps API](https://developers.google.com/places/web-service/overview)
+
+#### [Google Maps Public Data](https://developers.google.com/public-data/docs/canonical/countries_csv)
+
+## Song Attributes Definitions
+
+[(View on Spotify Documentation)](https://developer.spotify.com/documentation/web-api/reference/object-model/#audio-features-object)
 
 **acousticness** - A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
 
