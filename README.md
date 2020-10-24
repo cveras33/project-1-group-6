@@ -113,13 +113,13 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ## Attribute Breakdown by Decade
 
-![BPM](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/bpm_scatter_plot.png)
+![BPM](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_Trends/bpm_scatter_plot.png)
 
-![Loudness](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/dB_scatter_plot.png)
+![Loudness](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_Trends/dB_scatter_plot.png)
 
-![Danceability](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/danceability_scatter_plot.png)
+![Danceability](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_Trends/danceability_scatter_plot.png)
 
-![Valence](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/val_scatter_plot.png)
+![Valence](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_Trends/val_scatter_plot.png)
 
 
 ## Top Genres by Decade
