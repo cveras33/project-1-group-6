@@ -74,13 +74,44 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ## Findings
 
+#### Attribute Correlations
+
 ![attribute correlation](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_correlation.png)
+
+* Attributes with “HOT” colors have a high correlation
+* Attributes with “COLD” colors have a lower correlation
+* Attributes with high correlation:
+  * bpm : Energy
+  * Energy : Loudness
+  * liveness : bpm
+  * Valence : Loudness
+
+#### Attributes over time
 
 ![trends over time](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/trends_by_year.png)
 
-![Spotify Music Availability](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Music_Availability.png)
+* Over the years, there has been relatively flat levels of song attributes over time.
+* “BPM” is slightly trending DOWN
+* “Energy” is slightly trending DOWN
+* “Liveness” is slightly trending DOWN
+* “Valence” is slightly trending DOWN
+* “Dance” is slightly trending UPWARDS
+* “Acousticness” is slightly trending UPWARDS
+* “Loudness” is very flat.
 
+#### Music Availability
+
+![Spotify Music Availability](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Music_Availability.png)
 ![Availabilty pie chart](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Available%20Music%20Per%20Country%20Pie%20Chart.png)
+
+
+* The data implies heavily that Spotify is currently available to 1st world, highly developed countries, and avoids more economically poor third world countries.   
+* Despite a very large user base (300 million users) - Their market reaches only 37% of countries available.
+* Almost 63% of the world (in countries, not population) have access to Spotify.  And almost full continents (Africa) have almost no access.
+* The next steps are to discover what the implications are… is this due to GDP wealth?  Or population density? What about political/ government types? Cultural differences?
+* What would the implications be on Spotify’s user growth/ revenue if they could break into more countries - like China?
+
+#### Attribute Breakdown by Decade
 
 ![BPM](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/bpm_scatter_plot.png)
 
@@ -90,4 +121,12 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ![Valence](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/val_scatter_plot.png)
 
+#### Top Genres by Decade
 
+* dance-pop has been the most popular genre from 2010 until 2018. In 2019 pop is more popular than dance-pop
+* Every single year some form of “pop” dominates the top genre charts. 
+* Popular non-pop genres include: Big Room, Neo Mellow, British Soul, Permanent Wave, Canadian R&B, EDM
+* The implication of our findings is that pop, along with “loudness/ danceability/ valence” attributes.  Fast, happy “pop-y” songs have been dominant throughout the decade.   The masses really love pop!
+* Is there a correlation to the availability of the music (mostly 1st world countries?) If Spotify expanded to other countries and cultures, would there be a genre shift?  
+
+# Thank you! 
