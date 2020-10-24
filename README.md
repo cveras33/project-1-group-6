@@ -133,4 +133,37 @@ Project 1 for Rutgers Data Science Bootcamp
 * The implication of our findings is that pop, along with “loudness/ danceability/ valence” attributes.  Fast, happy “pop-y” songs have been dominant throughout the decade.   The masses really love pop!
 * Is there a correlation to the availability of the music (mostly 1st world countries?) If Spotify expanded to other countries and cultures, would there be a genre shift?  
 
-# Thank you! 
+# Data & Python Code
+
+## Resources & CSVs
+
+#### [Top Songs Over the Decade](https://github.com/cveras33/project-1-group-6/blob/main/Resources/cleaned_data.csv)
+
+ *Pulled from Kaggle*
+ 
+#### [Iso Country Codes](https://github.com/cveras33/project-1-group-6/blob/main/Resources/ISO_Country_Codes.csv)
+
+*Pulled from ISO.org*
+
+#### [Country Latitude and Longitudes](https://github.com/cveras33/project-1-group-6/blob/main/Resources/Country_Lat_Long.csv)
+
+*Pulled from Google Maps Developer Sources*
+
+## Python Code
+
+#### [Spotify Token Authorization Generation](https://github.com/cveras33/project-1-group-6/blob/main/Python%20Files/0_Base_Auth.ipynb)
+
+#### [Code to Pull Album Data from Spotify's New Releases](https://github.com/cveras33/project-1-group-6/blob/main/Python%20Files/1_New_Releases_Pull.ipynb)
+
+#### [Generating the Song Attribute Trends Over the Decade](https://github.com/cveras33/project-1-group-6/blob/main/Python%20Files/3_Song_Trends_Over_The_Decade.ipynb)
+
+#### [Generating Song Attributes per Year](https://github.com/cveras33/project-1-group-6/blob/main/Python%20Files/5_Decade_Attribute_Breakdown.ipynb)
+
+#### [Generating the Top Genres per Individual Year](https://github.com/cveras33/project-1-group-6/blob/main/Python%20Files/4_Top_Genres_per_Decade.ipynb)
+
+#### [Generating the Top Genres Over the whole Decade](https://github.com/cveras33/project-1-group-6/blob/main/Python%20Files/6_top_genre_by_year.ipynb)
+
+#### [Generating Country Availability](https://github.com/cveras33/project-1-group-6/blob/main/Python%20Files/2_Country_Data_Availability.ipynb)
+
+
+# Thank You!
