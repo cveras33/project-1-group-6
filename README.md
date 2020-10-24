@@ -2,6 +2,8 @@
 
 Project 1 for Rutgers Data Science Bootcamp
 
+### [See Full Project Presentation Here!](https://docs.google.com/presentation/d/1eVjDKqgjQVe1cIoBrewCYrsibdxyrrMSaR-AypFru4M/edit#slide=id.ga4a3d46c77_0_274)
+
 # Team Members
 
 * [Ben Kramskoi](https://github.com/kramskb1)
@@ -14,42 +16,17 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ### [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 
-##### 1. Music Preference History
+##### Questions to answer:
 
 1. How music changed over time? 
   * Danceability, energy, liveliness, etc
   
 2. Genre popularity over the course of history
 
-3. Genre popularity vs Location
+3. Are there areas in the world where Spotify is less available than others?
+ 
+  *Note: Spotify was founded in April 23, 2006*
 
-  *Note: Spotify was founded in April 23, 2006
-
-#### Bonus Questions:
-
-##### 2. Music Deserts
-
-1. Are there areas in the world where Spotify is less available than others?
-
-2. Does Country Availability differ by artist/genre/ etc?
-  * Does attribute popularity vary by country?
-  
-3. Does that availability differ with popularity 
-  * i.e. - if heavy metal isn’t largely available in China, does it still have some level of popularity?
-  
-##### 3. Time of Year
-
-1. Do certain genres become more popular at specific times of the year? 
-  * i.e - Does Christmas music get more popular around December?
-  
-2. Do certain genres maintain popularity all year long? 
-
-3. Do certain attributes have a corelation with the time of year?
-
-##### 4. Loudness
-
-1. Based on loudness - do people skip songs or listen to them? 
-  * ie: if the song is a lower loudness or volume, do people listen to it or skip it?
 
 ## Supplementary Data Sources
 
@@ -94,4 +71,9 @@ Project 1 for Rutgers Data Science Bootcamp
 **time_signature** - An estimated overall time signature of a track. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure).
 
 **valence** - A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
+
+## Findings
+
+
+
 
