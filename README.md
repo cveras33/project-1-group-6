@@ -72,9 +72,9 @@ Project 1 for Rutgers Data Science Bootcamp
 
 **valence** - A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
-## Findings
+# Findings
 
-#### Attribute Correlations
+## Attribute Correlations
 
 ![attribute correlation](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_correlation.png)
 
@@ -86,7 +86,7 @@ Project 1 for Rutgers Data Science Bootcamp
   * liveness : bpm
   * Valence : Loudness
 
-#### Attributes over time
+## Attributes over time
 
 ![trends over time](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/trends_by_year.png)
 
@@ -99,7 +99,7 @@ Project 1 for Rutgers Data Science Bootcamp
 * “Acousticness” is slightly trending UPWARDS
 * “Loudness” is very flat.
 
-#### Music Availability
+## Music Availability
 
 ![Spotify Music Availability](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Music_Availability.png)
 ![Availabilty pie chart](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Available%20Music%20Per%20Country%20Pie%20Chart.png)
@@ -111,7 +111,7 @@ Project 1 for Rutgers Data Science Bootcamp
 * The next steps are to discover what the implications are… is this due to GDP wealth?  Or population density? What about political/ government types? Cultural differences?
 * What would the implications be on Spotify’s user growth/ revenue if they could break into more countries - like China?
 
-#### Attribute Breakdown by Decade
+## Attribute Breakdown by Decade
 
 ![BPM](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/bpm_scatter_plot.png)
 
@@ -121,7 +121,7 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ![Valence](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/val_scatter_plot.png)
 
-#### Top Genres by Decade
+## Top Genres by Decade
 
 * dance-pop has been the most popular genre from 2010 until 2018. In 2019 pop is more popular than dance-pop
 * Every single year some form of “pop” dominates the top genre charts. 
