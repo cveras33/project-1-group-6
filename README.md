@@ -76,7 +76,7 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ## Attribute Correlations
 
-![attribute correlation](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_correlation.png)
+![attribute correlation](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_Trends/Attribute_correlation.png)
 
 * Attributes with “HOT” colors have a high correlation
 * Attributes with “COLD” colors have a lower correlation
@@ -88,7 +88,7 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ## Attributes over time
 
-![trends over time](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/trends_by_year.png)
+![trends over time](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_Trends/trends_by_year.png)
 
 * Over the years, there has been relatively flat levels of song attributes over time.
 * “BPM” is slightly trending DOWN
@@ -101,8 +101,8 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ## Music Availability
 
-![Spotify Music Availability](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Music_Availability.png)
-![Availabilty pie chart](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Available%20Music%20Per%20Country%20Pie%20Chart.png)
+![Spotify Music Availability](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Country_Availability/Music_Availability.png)
+![Availabilty pie chart](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Country_Availability/Available%20Music%20Per%20Country%20Pie%20Chart.png)
 
 
 * The data implies heavily that Spotify is currently available to 1st world, highly developed countries, and avoids more economically poor third world countries.   
@@ -121,7 +121,11 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ![Valence](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/val_scatter_plot.png)
 
+
 ## Top Genres by Decade
+
+![Top Genres Over the Decade](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Genre_Trends/genre_by_year.png)
+![Top Genres Over the Decade Bar Plot](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Genre_Trends/Top_Genre_by_Year%20bar_plot.png)
 
 * dance-pop has been the most popular genre from 2010 until 2018. In 2019 pop is more popular than dance-pop
 * Every single year some form of “pop” dominates the top genre charts. 
