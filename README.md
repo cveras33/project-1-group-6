@@ -74,6 +74,20 @@ Project 1 for Rutgers Data Science Bootcamp
 
 ## Findings
 
+![attribute correlation](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Attribute_correlation.png)
 
+![trends over time](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/trends_by_year.png)
+
+![Spotify Music Availability](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Music_Availability.png)
+
+![Availabilty pie chart](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/Available%20Music%20Per%20Country%20Pie%20Chart.png)
+
+![BPM](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/bpm_scatter_plot.png)
+
+![Loudness](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/dB_scatter_plot.png)
+
+![Danceability](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/danceability_scatter_plot.png)
+
+![Valence](https://github.com/cveras33/project-1-group-6/blob/main/Output%20Data/val_scatter_plot.png)
 
 
